@@ -1,2 +1,2 @@
-this is a basic HTML wedbsite
-index.html
+the project page URL
+https://roadmap.sh/projects/basic-html-website
